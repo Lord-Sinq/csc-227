@@ -1,2 +1,4 @@
-# csc-227
-Cloud Application Development class
+# csc-227 Cloud Application Development
+Author: Sinclair DeYoung
+
+---
